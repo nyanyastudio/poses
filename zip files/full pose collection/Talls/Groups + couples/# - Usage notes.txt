@@ -1,0 +1,2 @@
+Poses labeled S are the smaller character
+Poses labeled T are the taller character
